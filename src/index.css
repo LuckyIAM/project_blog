@@ -1,0 +1,7 @@
+:root {
+	--main-color: #6db8bb;
+}
+body {
+	margin: 0;
+	font-family: "Nunito", "Arial", "Helvetica", sans-serif;
+}
